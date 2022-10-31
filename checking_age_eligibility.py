@@ -4,8 +4,6 @@
 # Created in October 2022
 # A program that finds if a certain grandmother will allow the user to date her grandchild through the user's age
 
-import random
-
 
 def main():
     # Finds if a certain grandmother will allow the user to date her grandchild through the user's age
